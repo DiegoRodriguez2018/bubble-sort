@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Histogram from 'react-chart-histogram';
 
-const dataNumber = 20;
+const dataNumber = 15;
 let data = [];
 let dataSet = []; //array of arrays
 const labels = [];
